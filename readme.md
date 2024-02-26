@@ -1,21 +1,20 @@
 # The Software Paradigm: Revolutionizing Research Methodologies
 
-As PhD students and researchers, we find ourselves
-navigating a complex landscape, and the right software can make all the
-difference. In this blog post, I have compiled a list of software tools that
-have proven invaluable to my friends who are pursuing their PhDs. These tools
-have enhanced their research process, boosted productivity, and facilitated
-breakthroughs in their respective fields.
+As PhD students and researchers, we find ourselves navigating a complex
+landscape, and the right software can make all the difference. I have compiled
+a list of software tools that have proven invaluable to myself and my friends
+who are pursuing their PhDs. These tools have enhanced our research process,
+and boosted productivity.
 
 ## Tools
 
 ### Programming
-- Google collab
-- Jupyter Notebooks
-- Pycharm
-- Sublime Text
-- VScode
 - Vim
+- VScode
+- Jupyter Notebooks
+- Google collab
+- Sublime Text
+- Pycharm
 
 ### Figures/Mindmaps
 - Biorender
