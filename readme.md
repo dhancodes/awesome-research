@@ -6,9 +6,9 @@ a list of software tools that have proven invaluable to myself and my friends
 who are pursuing their PhDs. These tools have enhanced our research process,
 and boosted productivity.
 
-**Disclaimer:** The installation of softwares included in the list is 
-with `Ubuntu/Debian` in mind. Other Linux distro user can figure it out and
-good luck to the Windows Users.
+**Disclaimer:** The installation instructions for the listed software are
+tailored for `Ubuntu/Debian`. Users of other Linux distributions can adapt
+accordingly, and good luck to Windows users.
 
 ## Tools
 
