@@ -16,7 +16,7 @@ good luck to the Windows Users.
 - [Vim](https://www.vim.org/): A simple editor which runs in your terminal. If you what a more
 graphical approach you can try gvim. And vim has famous fork called [neovim](https://neovim.io/) which
 emphasises more on customizability as it uses a programming language called [lua](https://www.lua.org/) 
-for customizaition. while vim relyies on Vimscript for its customization
+for customizaition. while vim relies on Vimscript for its customization
 
 ```bash
 sudo apt install gvim
