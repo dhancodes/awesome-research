@@ -85,4 +85,10 @@ sudo apt install neovim
 - Github
 - Google Drive
 
+## Books
+
+## Blogs
+
+## Other Awesome Lists
+
 <!-- ## Tip -->
