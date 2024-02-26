@@ -6,15 +6,27 @@ a list of software tools that have proven invaluable to myself and my friends
 who are pursuing their PhDs. These tools have enhanced our research process,
 and boosted productivity.
 
+**Disclaimer:** The installation of softwares included in the list is 
+with `Ubuntu/Debian` in mind. Other Linux distro user can figure it out and
+good luck to the Windows Users.
+
 ## Tools
 
-### Programming
-- Vim
-- VScode
-- Jupyter Notebooks
-- Google collab
-- Sublime Text
-- Pycharm
+### Editors
+- [Vim](https://www.vim.org/): A simple editor which runs in your terminal. If you what a more
+graphical approach you can try gvim. And vim has famous fork called [neovim](https://neovim.io/) which
+emphasises more on customizability as it uses a programming language called [lua](https://www.lua.org/) 
+for customizaition. while vim relyies on Vimscript for its customization
+
+```bash
+sudo apt install gvim
+sudo apt install neovim
+```
+- [VScode](https://code.visualstudio.com/): 
+- [Jupyter Notebooks](https://jupyter.org/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Pycharm](https://www.jetbrains.com/pycharm/)
+- [Google collab](https://colab.google/)
 
 ### Figures/Mindmaps
 - Biorender
@@ -25,15 +37,15 @@ and boosted productivity.
 - draw.io
 - tikzit
 
-### File versioning
+### Versioning
 - Git
 - svn
 
-### News and uptodate
+### Rss reader
 - Researcher (android)
 - Aggregator (rss)
 
-### Literature Survey
+### ai tools
 - Connected papers
 - Research Rabbit
 - [Paperscape](http://paperscape.org/)
@@ -45,15 +57,17 @@ and boosted productivity.
 
 ### Communication
 - Slack
+- Telegram
+- Discord
 
 ### Notetaking
 - Evernote
-- LaTeX (overleaf)
 - Markdown
 - Notion
 - Obsidian
+- LaTeX
 
-### Latex
+#### Latex
 - latexdiff
 - latexpand
 - arara
