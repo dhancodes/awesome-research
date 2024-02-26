@@ -1,4 +1,4 @@
-# Awesome Research
+# Awesome Research ✨
 
 As PhD students and researchers, we find ourselves navigating a complex
 landscape, and the right software can make all the difference. I have compiled
