@@ -53,25 +53,46 @@ pip install jupyterlab
   system resources are limited.
 
 ### Figures/Mindmaps
+- [Inkscape](https://inkscape.org/): Inkscape is a Free and open source
+  vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich
+  set of features and is widely used for both artistic and technical
+  illustrations such as cartoons, clip art, logos, typography, diagramming
+  and flowcharting.
+  ```bash
+  sudo apt install inkscape
+  ```
+  Reference: [Latex inkscape workflow](https://castel.dev/post/lecture-notes-2/)
+- [Geogebra](https://www.geogebra.org):GeoGebra is a dynamic mathematics
+  software for all levels of education that brings together geometry, algebra,
+  spreadsheets, graphing, statistics and calculus in one engine. In addition,
+  we can generate also use it to generate graphs and geometric shapes.
+  ```bash
+  sudo apt install geogebra
+  ```
+- [Gimp](https://www.gimp.org/): It is a freely distributed program for
+  such tasks as photo retouching, image composition and image authoring.
+  ```bash
+  sudo apt install gimp
+  ```
+- [draw.io](https://app.diagrams.net/): Used to create diagrams
+  such as flowcharts, wireframes, organizational charts, and
+  network diagrams. But at the end it's just a website which has
+  lot of templates.
 - Biorender
-- Geogebra
-- Gimp
-- Inkscape
 - Prism
-- draw.io
-- tikzit
 
 ### Versioning
-- Git
-- svn
+- [Git](https://git-scm.com/): A awesome versioning system. A word of advice, if you code spend some time to learn git.
+  [Some interestion trivia](https://dhancodes.github.io/posts/2023/07/07/git_vs_github/)
+- svn:
 
 ### Rss reader
 - Researcher (android)
 - Aggregator (rss)
 
 ### ai tools
-- Connected papers
-- Research Rabbit
+- [Connected papers](https://www.connectedpapers.com/)
+- [Research Rabbit](https://www.researchrabbit.ai/)
 - [Paperscape](http://paperscape.org/)
 
 ### Citation Manager
